@@ -97,4 +97,3 @@ FISHKY/
 ## 👤 Автор
 
 **AlexTihonow** — [GitHub](https://github.com/AlexTihonow)
-```
