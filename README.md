@@ -1,5 +1,5 @@
 # 🎮 FISHKY
-
+Google Play - https://play.google.com/store/apps/details?id=com.Mylinemedia.FISHKY
 **FISHKY** — это головоломка на Unity, где нужно заполнять игровое поле цветными фишками, 
 собирая комбинации из соседних фишек одного цвета, пока поле не переполнится.
 
